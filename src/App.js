@@ -3,7 +3,7 @@
 
 import { useEffect, useState } from 'react';
 import User from './User';
-import Loading from './Loading';
+
 
 const url = 'https://randomuser.me/api/';
 

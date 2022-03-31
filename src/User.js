@@ -7,7 +7,6 @@ import {
   FaPhone,
   FaLock,
 } from "react-icons/fa";
-import Loading from "./Loading";
 
 const User = ({
   name,
